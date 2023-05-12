@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 numpy = "~=1.24.2"
+pycryptodome = "~=3.17"
 
 [dev-packages]
 black = "*"
