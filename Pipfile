@@ -10,6 +10,7 @@ pycryptodome = "~=3.17"
 [dev-packages]
 black = "*"
 pytest = "~=7.3.1"
+ipykernel = "~=6.23.1"
 
 [requires]
 python_version = "3.11"
